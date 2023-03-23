@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.mvn/
 
 ### STS ###
 .apt_generated
@@ -17,8 +18,16 @@ target/
 *.iws
 *.iml
 *.ipr
-.mvn
+
+# OS generated files #
+######################
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
 ### NetBeans ###
 /nbproject/private/
