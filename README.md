@@ -1,5 +1,9 @@
 # Getting Started
 
+### Kafka Reference
+
+* [Kafka](https://www.cloudkarafka.com/docs/spring.html?gclid=Cj0KCQjw8e-gBhD0ARIsAJiDsaX723SrqYYH-knb9VbvLiZ5WqTq00NMVExTLzLLuAUycA6n3_Nz9mkaApxyEALw_wcB)
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
